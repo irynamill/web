@@ -1,0 +1,179 @@
+body{
+  margin: 0;
+  font-family: 'Merriweather', serif;
+}
+
+h1{
+  font-size: 5em;
+  margin-top: 0;
+  color: #45b29a;
+  font-family: 'Great Vibes', cursive;
+  line-height: 0;
+}
+
+h2{
+  color: #45b29a;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  font-weight: normal;
+  margin-left: 50px;
+}
+
+h3{
+  margin-top: 0;
+  line-height: 0;
+  font-family: 'Montserrat', sans-serif;
+  color: #45b29a;
+}
+
+p{
+  color: #54547D;
+  font-family: 'Montserrat', sans-serif;
+}
+
+a{
+  color: #45b29a;
+  font-family: 'Montserrat', sans-serif;
+  text-decoration: none;
+  margin: 0 10px 0 10px;
+}
+
+a:hover{
+  color: #545454;
+}
+
+.btn {
+  -webkit-border-radius: 9;
+  -moz-border-radius: 9;
+  border-radius: 9px;
+  font-family: Arial;
+  color: #1b7f69;
+  font-size: 20px;
+  background: #45b29a;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #1c997c;
+  text-decoration: none;
+}
+
+.top-container{
+  background-color: #e0ebe8;
+  padding-top: 20px;
+  text-align: center;
+}
+
+.up-middle-container{
+  text-align: center;
+  font-size: 1em;
+  margin-left: 30%;
+  margin-right: 30%;
+  box-sizing: border-box;
+}
+
+.down-middle-container{
+  text-align: center;
+  margin-left: 25%;
+  margin-right: 25%;
+  /*box-sizing: border-box;*/
+}
+
+.bottom-container{
+  background-color: #e0ebe8;
+  text-align: center;
+  padding: 50px 0 20px;
+  margin-top: 100px;
+}
+
+.copyright{
+  color: #545454;
+}
+.greeting{
+  margin-left: 0%;
+}
+
+.wcid{
+  margin-right: 30px;
+}
+
+.getintouch{
+  margin-right: 30px;
+}
+
+.top-cloud{
+  height: 150px;
+  width: 150px;
+  margin-left: -60%;
+}
+
+.bottom-cloud{
+  height: 150px;
+  width: 150px;
+  margin-left: 70%;
+}
+
+.skill-row{
+  /*width: 50%;*/
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+
+.myprofileimage{
+  display: block;
+  margin-left: 800px;
+  position: relative;
+  top: -150px;
+  width: 300px;
+  height: 300px;
+}
+
+.design-heading{
+  margin-top: 20px;
+}
+
+.getintouch{
+  margin-top: 20px;
+  line-height: 5rem;
+}
+
+.question{
+  margin-bottom: 100px;
+}
+
+.develop-heading{
+  margin-top: 150px;
+}
+
+.heading{
+  text-align: center;
+}
+
+.subheading{
+  font-size: 1rem;
+  text-align: center;
+  margin-left: 0%;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #E4DCCF;
+  border-width: 5px;
+  margin-top: 10%;
+  width: 40px;
+}
+
+.pensil-image {
+  width: 20%;
+  float: left;
+  margin-right: 30px;
+}
+
+.devices-image {
+  width: 20%;
+  float: right;
+  margin-left: 30px;
+  margin-top: 0px;
+}
